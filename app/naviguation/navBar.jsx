@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router';
-import myLogo from "#/images/logo.jpg"
+import myLogo from "#/images/logo-noBg.png"
 import { useState } from "react";
 
 
@@ -9,7 +9,7 @@ export default function NavBar() {
 const [open, setOpen] = useState(false)
   return (
     <>
-    <nav className="w-full bg-[#F47555] text-white shadow-md">
+    <nav className="w-full bg-white text-[#F47555] shadow-md">
       {/* HEADER */}
       <div className="flex items-center justify-between px-4 py-3">
         <div className="flex items-center space-x-2">
@@ -27,9 +27,9 @@ const [open, setOpen] = useState(false)
           className="focus:outline-none"
         >
           <div className="space-y-1">
-            <span className="block h-1 w-6 bg-white rounded"></span>
-            <span className="block h-1 w-6 bg-white rounded"></span>
-            <span className="block h-1 w-6 bg-white rounded"></span>
+            <span className="block h-1 w-6 bg-[#F47555] rounded"></span>
+            <span className="block h-1 w-6 bg-[#F47555] rounded"></span>
+            <span className="block h-1 w-6 bg-[#F47555] rounded"></span>
           </div>
         </button>
       </div>
@@ -44,8 +44,8 @@ const [open, setOpen] = useState(false)
               className={({ isActive }) =>
                 `block py-2 px-3 rounded-md ${
                   isActive
-                    ? "bg-white text-[#F47555] font-semibold"
-                    : "text-white"
+                    ? "bg-[#F47555] text-white font-semibold"
+                    : "text-black"
                 }`
               }
             >
@@ -60,8 +60,8 @@ const [open, setOpen] = useState(false)
               className={({ isActive }) =>
                 `block py-2 px-3 rounded-md ${
                   isActive
-                    ? "bg-white text-[#F47555] font-semibold"
-                    : "text-white"
+                    ? "bg-[#F47555] text-white font-semibold"
+                    : "text-black"
                 }`
               }
             >
@@ -76,8 +76,8 @@ const [open, setOpen] = useState(false)
               className={({ isActive }) =>
                 `block py-2 px-3 rounded-md ${
                   isActive
-                    ? "bg-white text-[#F47555] font-semibold"
-                    : "text-white"
+                   ? "bg-[#F47555] text-white font-semibold"
+                    : "text-black"
                 }`
               }
             >
@@ -92,8 +92,8 @@ const [open, setOpen] = useState(false)
               className={({ isActive }) =>
                 `block py-2 px-3 rounded-md ${
                   isActive
-                    ? "bg-white text-[#F47555] font-semibold"
-                    : "text-white"
+                   ? "bg-[#F47555] text-white font-semibold"
+                    : "text-black"
                 }`
               }
             >
