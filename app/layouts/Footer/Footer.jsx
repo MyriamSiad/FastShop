@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="fixed bottom-0 left-0 w-full bg-[#F47555] text-white py-3 px-6 flex flex-col gap-2 md:hidden shadow-t">
+    <footer className="bottom-0 left-0 w-full bg-[#F47555] text-white py-3 px-6 flex flex-col gap-2 md:hidden shadow-t">
 
       {/* Groupe principal de liens */}
       <div className="flex flex-col gap-1 text-sm">
