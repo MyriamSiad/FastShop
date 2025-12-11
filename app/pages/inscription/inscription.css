@@ -1,0 +1,52 @@
+/* --- Page complète --- */
+.signup-page {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #9de6c8; /* fond vert pastel */
+  position: relative;
+}
+
+/* --- Carte blanche --- */
+.signup-card {
+  width: 350px;
+  padding: 30px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+/* --- Titre --- */
+.signup-title {
+  font-size: 22px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* --- Formulaire --- */
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* --- Bouton --- */
+.signup-button {
+  margin-top: 10px;
+  padding: 12px;
+  background-color: #f18a68; /* orange doux comme ton image */
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.signup-button:hover {
+  background-color: #e07350;
+}
