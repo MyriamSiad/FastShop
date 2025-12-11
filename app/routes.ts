@@ -5,5 +5,5 @@ export default [
     route("/connexion" , "routes/connexion.tsx"),
     route("/inscription" , 'routes/inscription.tsx'),
     route("/listecourse" , "routes/listecourse.tsx"),
-    route("/magasins", "routes/magasin.tsx" )
+    route("/magasins", "routes/magasins.tsx" )
 ] satisfies RouteConfig;
