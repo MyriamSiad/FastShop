@@ -1,12 +1,16 @@
 /* --- Page complète --- */
 .signup-page {
-  height: 100vh;
+ height: 100vh;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #9de6c8; /* fond vert pastel */
-  position: relative;
+
+  background-color: #9de6c8; /* couleur de fond */
+  background-image: url("../../../public/images/routeimage.png"); /* ton image */
+  background-repeat: no-repeat;
+  background-size: contain; /* s'adapte mais reste nette */
+  background-position: center; /* centrée */
 }
 
 /* --- Carte blanche --- */
