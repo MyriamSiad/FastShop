@@ -69,21 +69,7 @@ const [open, setOpen] = useState(false)
             </NavLink>
           </li>
 
-          <li>
-            <NavLink
-              to="/magasins"
-              onClick={() => setOpen(false)}
-              className={({ isActive }) =>
-                `block py-2 px-3 rounded-md ${
-                  isActive
-                   ? "bg-[#F47555] text-white font-semibold"
-                    : "text-black"
-                }`
-              }
-            >
-              Les magasins
-            </NavLink>
-          </li>
+     
 
           <li>
             <NavLink

@@ -29,7 +29,7 @@ export default function PageListeCourse() {
     { icon: '🍷', label: 'Boissons' },
     { icon: '🧀', label: 'Produits laitiers' },
     { icon: '🥩', label: 'Viandes' },
-    { icon: '🍸', label: 'Alcools' }
+
   ];
 
   const toggleItem = (id) => {
