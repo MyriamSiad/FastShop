@@ -91,13 +91,14 @@ Ce projet s’inscrit dans un exercice de formation visant à simuler :
 * une restitution claire et structurée
 
 Il illustre ma capacité à **m’intégrer dans un travail d’équipe**, à **structurer un projet rapidement**, et à **livrer un résultat cohérent dans un délai très court**.
-<img width="470" height="834" alt="Capture d’écran 2026-02-07 105939" src="https://github.com/user-attachments/assets/71a7f0aa-b6da-4af0-85e5-d2f2f0827108" />
+
 
 ---
+<img width="470" height="834" alt="Capture d’écran 2026-02-07 105939" src="https://github.com/user-attachments/assets/2889c14d-0261-4e71-a642-c1c3a400742a" />
+<img width="457" height="830" alt="Capture d’écran 2026-02-07 110025" src="https://github.com/user-attachments/assets/4fb561fd-8716-4a8e-b721-7e4c93f61fd6" />
+<img width="421" height="828" alt="Capture d’écran 2026-02-07 110037" src="https://github.com/user-attachments/assets/69cf889e-b409-4b71-8e35-a0351e72926b" />
+<img width="474" height="834" alt="Capture d’écran 2026-02-07 110124" src="https://github.com/user-attachments/assets/623c85d0-d1a6-45dc-9477-c60b361ea013" />
 
-<img width="42<img width="474" height="834" alt="Capture d’écran 2026-02-07 110124" src="https://github.com/user-attachments/assets/f0c4bae3-284e-4303-a398-9c378f5bbc33" />
-1" height="828" alt="Capture d’écran 2026-02-07 110037" src="https://github.com/user-attachments/assets/54555529-7895-404d-bc73-43f2b3d2d24f" />
 
-<img width="457" height="830" alt="Capture d’écran 2026-02-07 110025" src="https://github.com/user-attachments/assets/07b7a917-9294-46ea-9815-22b37116884a" />
 ## 📄 Licence
 Projet pédagogique – Tous droits réservés à l’équipe projet et à l’autrice de l’idée.
